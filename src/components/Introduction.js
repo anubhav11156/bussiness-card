@@ -39,8 +39,8 @@ function Introduction() {
             </div>
             <div className="content-div">
               <p className="content">
-                Yo! I am psychedelic visual artist with particular interest in doing some serius fun.
-                You know what...they call me cyborg! Lol literally,  I do the psyk-psyk magic...phewww!
+                Yo! I am psychedelic visual artist with particular interest in doing some serious fun.
+                You know what.....they call me cyborg! Lol literally,  I do the psyk-psyk magic...phewww!
               </p>
             </div>
           </About>
@@ -106,8 +106,8 @@ const Buttons=styled.div`
 
   .email-button,
   .linkedin-button {
-    width: 120px;
-    height: 40px;
+    width: 122px;
+    height: 38px;
     border-style: none;
     cursor: pointer;
     border-radius: 7px;
@@ -124,14 +124,14 @@ const About=styled.div`
     color: white;
     font-family: Arial;
     font-weight: bold;
-    margin-left: 25px;
+    margin-left: 32px;
     margin-top:10px;
     font-size: 22px;
   }
 
   .content {
-    width: 310px;
-    margin-left: 25px;
+    width: 295px;
+    margin-left: 32px;
     margin-top: 9px;
     color: rgba(220, 220, 220, 1);
     font-family: Arial;
@@ -147,14 +147,14 @@ const Interest=styled.div`
     color: white;
     font-family: Arial;
     font-weight: bold;
-    margin-left: 25px;
+    margin-left: 32px;
     margin-top:10px;
     font-size: 22px;
   }
 
   .content {
-    width: 310px;
-    margin-left: 25px;
+    width: 295px;
+    margin-left: 32px;
     margin-top: 9px;
     color: rgba(220, 220, 220, 1);
     font-family: Arial;
@@ -164,7 +164,7 @@ const Interest=styled.div`
 `
 
 const LeftButton=styled.button`
-  margin-right: 25px;
+  margin-right: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -196,7 +196,7 @@ const LeftButton=styled.button`
 
 const RightButton=styled.button`
   background-color: white;
-  margin-left: 25px;
+  margin-left: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
