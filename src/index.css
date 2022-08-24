@@ -1,7 +1,10 @@
 body {
-
+  margin: 0;
+  padding: 0;
+  background-color: rgba(200, 102, 65, 0.92);
 }
 
-code {
-
+p {
+  margin: 0;
+  padding: 0;
 }
